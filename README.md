@@ -1,5 +1,4 @@
-# protoria-studios-public
-Protoria Studios public assets and documentation
+# Protoria Studio Public
 
 **press-kit** - If you're writing/creating content about us, we prefer these official assets are your first choice.
 
