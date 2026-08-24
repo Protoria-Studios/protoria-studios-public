@@ -1,14 +1,20 @@
 ## About
 
-Protoria Studios is a small computer entertainment studio based acrossed the Eastern US, shipping video games, music, assets, and software since 2016. Guided by gameplay-first design, precise art direction, and a focus on lasting playability, Protoria Studios is committed to creating novel entertainment that lasts forever.
+Protoria Studios is a small computer entertainment studio based acrossed the Eastern US, shipping video games, music, assets, and software since 2016. Guided by gameplay-first design, precise art direction, and a focus on lasting playability, Protoria Studios is committed to creating novel entertainment that lasts forever. We are a team of primarily 1-2, with +1-2 part time members, which varies by project. We operate fully remote on a small budget.
 
 Main products:  
 [Skyfear, dragon arena shooter](https://store.steampowered.com/app/814330/Skyfear/)  
+![](Skyfear_Thumbnail.jpg) ![](Skyfear_Screenshot03.jpg)
 [Motocon, motorcycle combat (coming soon)](https://store.steampowered.com/app/4098490/Motocon/)  
+![](MainCapsule.png)
 [Optimum Link, lucid dream sandbox](https://store.steampowered.com/app/941120/Optimum_Link/)  
+![](OptimumLink_Gallery02.png) ![](OptimumLink_Gallery03.png)
 [Adventures in the Light & Dark VR](https://store.steampowered.com/app/841790/Adventures_in_the_Light__Dark/)  
+![](AdventuresInTheLight&Dark_Screenshot.png)
 
-We also offer [prototyping services](https://www.protoriastudios.com/prototypes) for game developers and publishers.
+We also offer [prototyping services](https://www.protoriastudios.com/prototypes) for game developers and publishers. We also develop software. Mostly for our own purposes, but sometimes we share it or sell it.
+![](ChessFigures_Gallery01.png)
+
 
 Links:
 [Website](https://www.protoriastudios.com) | 
@@ -27,3 +33,7 @@ Contact: [protoriastudios@gmail.com](mailto:protoriastudios@gmail.com)
 ## Assets
 
 < put images inline here >
+
+
+![](Skyfear_Thumbnail.jpg)
+![](Skyfear_Thumbnail.jpg)
