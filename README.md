@@ -2,6 +2,10 @@
 
 > We publically host our policies and press assets here so that changes are easy and transparent for everyone. Consider this entire repository our press kit. Feel free to use any of its contents for your media or informational purposes.
 
+<p align=center>
+  <img src="assets/Logo_MainAlt_Transparent_2020_Shadow.png" width=300/>
+</p>
+
 ## About us
 
 Protoria Studios is a small computer entertainment studio based acrossed the Eastern US, shipping video games, music, assets, and software since 2016. Guided by gameplay-first design, precise art direction, and a focus on lasting playability, Protoria Studios is committed to creating novel entertainment that lasts forever. We are a team of primarily 1-2, with +1-2 part timers, which varies by project. We operate fully remote on a small budget.
