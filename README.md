@@ -8,7 +8,7 @@
 
 ## About us
 
-Protoria Studios is a small computer entertainment studio based across the Eastern US, shipping video games, music, assets, and software since 2016. Guided by gameplay-first design, precise art direction, and a focus on lasting playability, Protoria Studios is committed to creating novel entertainment that lasts forever. We're primarily a 1–2 person team, with additional part-time contributors depending on the project. We operate fully remote on a small budget.
+Protoria Studios is a small computer entertainment studio based across the Eastern US, shipping video games, music, assets, and software since 2016. Guided by gameplay-first design, precise art direction, and a focus on lasting playability, Protoria Studios is committed to creating novel entertainment that lasts forever. Games are mostly just made by https://github.com/telekrex, with additional part-time contributors depending on the project. We operate fully remote on a small budget.
 
 Though our primary thing is making our own video games, we also offer [prototyping services](https://www.protoriastudios.com/prototypes), and often write custom software. Sometimes we share it.
 
