@@ -14,4 +14,4 @@ To see these documents of the product in question, please check these locations:
 
 If you don't see those files there, they were not necessary for the product.
 
-Nearly all of our products are offline first and don't collect any data, unless it is mentioned publically.
+Nearly all of our products are offline first and don't collect any data, unless it is mentioned publicly.
