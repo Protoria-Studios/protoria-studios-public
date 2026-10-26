@@ -20,7 +20,7 @@ Even if many of our games and products may interact with the Internet, we're com
 [EULAs and Privacy Policy](https://github.com/Protoria-Studios/protoria-studios-public/blob/main/policies/EULAs%20and%20Privacy%20Policy.md)  
 [Online Play Guidelines](https://github.com/Protoria-Studios/protoria-studios-public/blob/main/policies/Online%20Play%20Guidelines.md)  
 [Customer Support](https://github.com/Protoria-Studios/protoria-studios-public/blob/main/policies/Customer%20Support.md)  
-[Modding](https://github.com/Protoria-Studios/protoria-studios-public/blob/main/policies/Modding.md)
+[Modding](https://github.com/Protoria-Studios/protoria-studios-public/blob/main/policies/Modding.md)  
 [Security](https://github.com/Protoria-Studios/protoria-studios-public/blob/main/policies/Security.md)  
 
 ## Links
