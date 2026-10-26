@@ -16,6 +16,13 @@ Though our primary thing is making our own video games, we also offer [prototypi
 
 Even if many of our games and products may interact with the Internet, we're committed to making sure they work without it, and continue to work when technology evolves around it. We believe you should fully own your ability to use software that's sitting on your hard drive. Offline first, networked second, runs on your machine, no sign-up required, just run the .exe. We also quite like big head mode.
 
+## Policies
+[EULAs and Privacy Policy](https://www.protoriastudios.com)  
+[Online Play Guidelines]("policies/Online Play Guidelines.md")  
+[Customer Support]("policies/Customer Support.md")  
+[Modding]("policies/Modding.md")
+[Security]("policies/Customer Support.md")  
+
 ## Links
 [Website](https://www.protoriastudios.com) | 
 [Press Kit](https://github.com/Protoria-Studios/protoria-studios-public/tree/main/press-kit) | 
